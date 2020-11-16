@@ -65,7 +65,7 @@
         <owb.version>1.6.1</owb.version>
         <wildfly.version>8.2.0.Final</wildfly.version>
         <wildfly-9.version>9.0.0.CR2</wildfly-9.version>
-        <jetty.version>9.2.11.v20150529</jetty.version>
+        <jetty.version>9.4.34.v20201102</jetty.version>
         <arquillian.version>1.1.8.Final</arquillian.version>
         <arquillian.weld.version>1.0.0.CR8</arquillian.weld.version>
         <shrinkwrap.resolver.version>2.2.0-beta-2</shrinkwrap.resolver.version>
